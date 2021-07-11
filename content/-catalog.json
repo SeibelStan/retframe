@@ -1,0 +1,9 @@
+[
+    {
+        "slug": "sample-item",
+        "title": "Sample Item",
+        "description": "Item Description",
+        "images": ["sample-item-1.jpg"],
+        "price": 1000
+    }
+]
