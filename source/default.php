@@ -1,4 +1,6 @@
 <?php
+    header("HTTP/1.0 404 Not Found");
+
     global $title;
     global $description;
     global $content;
